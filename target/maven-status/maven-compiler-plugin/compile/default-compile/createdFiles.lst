@@ -1,0 +1,8 @@
+hellospring_config\Dao\UserDaoImpl.class
+hellospring_config\config\WebInitializer.class
+hellospring_config\service\UserServiceImpl.class
+hellospring_config\config\WebConfig.class
+hellospring_config\Dao\UserDao.class
+hellospring_config\model\User.class
+hellospring_config\controller\UserController.class
+hellospring_config\service\UserService.class
